@@ -1,0 +1,26 @@
+Changelog Unofficial 
+
+26/09/2019:
+
+- September security patch (PE+);
+- Added screen and sound recording functions on qs tiles (with internal audio support)(PE+);
+- Added automatic theme based on time (PE+);
+- Added back dark notifications (you can switch between white and dark)(PE+);
+- Added back face auto unlock (PE+);
+- Added ability to configure QS rows and columns (PE+);
+- Improved ambient play (PE+);
+- Fixed heads up disabling (PE+);
+- Fixes on black theme (PE+);
+- Improved scrolling on some apps (PE+);
+- Fixed screenshot edit (PE+);
+- Fixed Incall vibration not working (PE+);
+- Fixed missing edit action on screenshot notification (PE+);
+- Improved LiveDisplay (PE+);
+- Enhanced call blocking (PE+);
+- Improved network traffic (PE+);
+
+Device:
+- Version kernel Butterfly = msm8953-butterfly: defconfig typo fix
+- Uptade version kernel = v5.5+
+
+PS: Thanks @tunasahinn for your kernel fixes...
