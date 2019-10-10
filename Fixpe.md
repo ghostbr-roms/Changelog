@@ -10,10 +10,11 @@ Changelog:
  --------------------------------
 - September patch
 
-LINK: 
+Link: 
 =========================================
 https://drive.google.com/file/d/1KZJy_f8uxbEOqDtRCSkmKv6qT9rUh6wg/view?usp=drivesdk
 --------------------------------
+ 
  
  Device configuration for Xiaomi Mi A2 Lite
  =========================================
