@@ -1,6 +1,6 @@
  GhostBR (my telegram @ghostdaisy)
  
- ![Pixel](https://t.me/c/1287237889/43)
+ ![Pixel](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.xda-developers.com%2Ffiles%2F2019%2F02%2Fpixel-expirience.png&imgrefurl=https%3A%2F%2Fwww.xda-developers.com%2Fpixel-experience-custom-rom-latest-updates%2F&docid=0XaU5ktYjXKCuM&tbnid=W-4s9jh07Z6j8M%3A&vet=10ahUKEwierNiigpHlAhXYIbkGHY9UDcAQMwhQKA0wDQ..i&w=1200&h=800&bih=754&biw=1536&q=pixel%20experience&ved=0ahUKEwierNiigpHlAhXYIbkGHY9UDcAQMwhQKA0wDQ&iact=mrc&uact=83)
  =========================================
  Changelog:
  --------------------------------
