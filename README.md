@@ -7,10 +7,10 @@
  - Final build because last link was unavailable for Google account errors.
  --------------------------------
 - September patch
-  
-   Device configuration for Xiaomi Mi A2 Lite
+ 
+  Device configuration for Xiaomi Mi A2 Lite
  =========================================
-  
+ 
   The Xiaomi Mi A2 Lite (codenamed _"daisy"_) is an Android One smartphone from Xiaomi.
  
   It was announced and released in July 2018.
