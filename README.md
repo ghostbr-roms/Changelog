@@ -7,7 +7,6 @@
  - Final build because last link was unavailable for Google account errors.
  --------------------------------
 - September patch
- 
   
    Device configuration for Xiaomi Mi A2 Lite
  =========================================
