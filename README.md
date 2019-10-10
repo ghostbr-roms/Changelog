@@ -1,7 +1,12 @@
- ![GhostBR](https://t.me/joinchat/AAAAAEy5sQHjx7YuKw20rA)
+ GhostBR (my telegram @ghostdaisy)
  
  Pixel Experience Plus (Pie)
  =========================================
+ Changelog:
+ --------------------------------
+ - Final build because last link was unavailable for Google account errors.
+ --------------------------------
+- September patch
  
   The Xiaomi Mi A2 Lite (codenamed _"daisy"_) is an Android One smartphone from Xiaomi.
  
