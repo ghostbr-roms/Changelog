@@ -8,7 +8,7 @@
  --------------------------------
 - September patch
  
-  Device configuration for Xiaomi Mi A2 Lite
+ Device configuration for Xiaomi Mi A2 Lite
  =========================================
  
   The Xiaomi Mi A2 Lite (codenamed _"daisy"_) is an Android One smartphone from Xiaomi.
