@@ -1,8 +1,10 @@
  GhostBR (my telegram @ghostdaisy)
- 
- PIXEL EXPERIENCE PLUS (PIE)
  =========================================
- Changelog:
+ 
+ Pixel Experience Plus (PIE)
+ =========================================
+
+Changelog:
  --------------------------------
  - Final build because last link was unavailable for Google account errors.
  --------------------------------
