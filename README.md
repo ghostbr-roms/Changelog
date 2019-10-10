@@ -1,6 +1,6 @@
-                                                                      GhostBR
+ ![GhostBR](https://t.me/joinchat/AAAAAEy5sQHjx7YuKw20rA)
  
- Device configuration for Xiaomi Mi A2 Lite
+ Pixel Experience Plus (Pie)
  =========================================
  
   The Xiaomi Mi A2 Lite (codenamed _"daisy"_) is an Android One smartphone from Xiaomi.
